@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Python, JavaScript, HTMl e CSS.
 - 👯 Estou em busca do primeiro emprego.
 - 🤔 Aceito dicas de progamação em geral.
-- 📫 Meu contato: kaiocalass@gmail.com
+- 📫 Meu contato: kaiomonteiro151@gmail.com
 - 😄 Pronomes: ele/dele
 
  <div>
