@@ -1,6 +1,6 @@
 ### E aí! Me chamo Kaio Calás.
 
-- 🌱 Atualmente estou aprendendo Python, JavaScript, HTMl e CSS.
+- 🌱 Atualmente estou aprendendo Python, JavaScript, HTML e CSS.
 - 👯 Estou em busca do primeiro emprego.
 - 🤔 Aceito dicas de progamação em geral.
 - 📫 Meu contato: kaiomonteiro151@gmail.com
