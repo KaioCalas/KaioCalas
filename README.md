@@ -4,7 +4,6 @@
 - 👯 Estou em busca do primeiro emprego.
 - 🤔 Aceito dicas de progamação em geral.
 - 📫 Meu contato: kaiomonteiro151@gmail.com
-- 😄 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/KaioCalas">
