@@ -4,6 +4,7 @@
 - 👯 Estou em busca do primeiro emprego.
 - 🤔 Aceito dicas de progamação em geral.
 - 📫 Meu contato: kaiomonteiro151@gmail.com
+- Meu portfólio: https://kaio-homepage-8dan6kgxh-kaiocalas.vercel.app/
 
  <div>
   <a href="https://github.com/KaioCalas">
