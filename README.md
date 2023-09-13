@@ -1,8 +1,7 @@
 ### E aí! Me chamo Kaio Calás.
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript.
-- 👯 Estou em busca do primeiro emprego.
-- 🤔 Aceito dicas de progamação em geral.
+- 👯 Estou em busca do primeiro na área de TI.
 - 📫 Meu contato: kaiomonteiro151@gmail.com
 - Meu portfólio: https://kaio-homepage.vercel.app
 
